@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-25T19:00:25 IST" name="Suite" finished-at="2024-02-25T19:01:09 IST" duration-ms="44421">
+    <groups>
+    </groups>
+    <test started-at="2024-02-25T19:00:25 IST" name="Test" finished-at="2024-02-25T19:01:09 IST" duration-ms="44421">
+      <class name="app.himalayas.AutoScript.StandAloneTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:app.himalayas.AutoScript.StandAloneTest@31c7528f]" started-at="2024-02-25T19:00:26 IST" name="launchApplication" finished-at="2024-02-25T19:00:52 IST" duration-ms="26059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="Test1(app.himalayas.POJO.JobSearchData)[pri:0, instance:app.himalayas.AutoScript.StandAloneTest@31c7528f]" started-at="2024-02-25T19:00:52 IST" name="Test1" data-provider="getData" finished-at="2024-02-25T19:01:09 IST" duration-ms="17411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[app.himalayas.POJO.JobSearchData@59f93db8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:app.himalayas.AutoScript.StandAloneTest@31c7528f]" started-at="2024-02-25T19:01:09 IST" name="tearDown" finished-at="2024-02-25T19:01:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- app.himalayas.AutoScript.StandAloneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
