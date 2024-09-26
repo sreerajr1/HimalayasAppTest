@@ -1,5 +1,4 @@
-Web Automation Script for Himalayas.app JobFilter Functionality
-
+Web Automation Script for Himalayas.app JobFilter Functionality using selenium
 
 How to Input Test Data
 ----------------------
@@ -47,7 +46,4 @@ How to Run the Scritpt
 How to view the Result Report
 ------------------------------
 ExtentReport can be viewd in 'reports/index.html'
-
-
--------------------------------------------
 
